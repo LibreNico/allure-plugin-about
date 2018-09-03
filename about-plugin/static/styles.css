@@ -1,0 +1,15 @@
+.about h1{
+	font-weight: lighter;
+	text-transform: uppercase;
+}
+
+.about h2{
+    color: #515651;
+    font-weight: lighter;
+    text-transform: none;
+}
+
+.about {
+	margin: 10px;
+    font-family: Helvetica,Arial,sans-serif;
+}

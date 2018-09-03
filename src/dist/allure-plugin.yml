@@ -1,0 +1,9 @@
+id: about-plugin
+name: About
+description: Information about the project
+extensions:
+- be.crappe.allure.about.AboutPlugin
+jsFiles:
+- index.js
+cssFiles:
+- styles.css
